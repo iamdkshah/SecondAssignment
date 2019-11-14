@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecondAssignment</string>
+
+    <string-array name="country">
+        <item>Nepal</item>
+        <item>USA</item>
+        <item>Czeck</item>
+        <item>UAE</item>
+        <item>Canada</item>
+
+    </string-array>
+</resources>
